@@ -1,0 +1,15 @@
+body {
+  font-family: "Inter", sans-serif;
+  display: flex;
+  margin: 25px;
+}
+
+.container {
+  padding: 25px;
+  background-color: lightgray;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 75%;
+  border-radius: 5px;
+}
